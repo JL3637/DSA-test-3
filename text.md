@@ -284,4 +284,4 @@
                min_index = j
          sorted_egg[i] = pop(stack[min_index])
    ```
-   The algorithm works by the same idea of P3-5.
+   The algorithm works by the same idea of P3-4.
